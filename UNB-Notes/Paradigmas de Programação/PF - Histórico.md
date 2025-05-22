@@ -1,0 +1,7 @@
+-   A programação funcional tem raízes no [[Cálculo Lambda]], que surgiu na década de 1930.
+-   **Década de 1950:** Lisp foi uma das primeiras linguagens a incorporar conceitos e características da programação funcional.
+-   **Década de 1960:** APL (A Programming Language) foi desenvolvida e influenciou o desenvolvimento da programação funcional na década seguinte.
+-   **Década de 1970:** Foi desenvolvida a linguagem ML.
+-   **1987:** Teve início o desenvolvimento da linguagem [[PF - Haskell - Introdução|Haskell]].
+-   **Década de 1990:** Surgiram as linguagens J, K e Q.
+-   Com o passar do tempo e da maturação destas linguagens, elas deixaram de ser usadas apenas em pesquisas e na academia e hoje são utilizadas em aplicações reais.

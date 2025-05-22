@@ -1,0 +1,6 @@
+# Obsidian vault configuration, cache, plugins, themes, etc.
+./UNB-Notes/.obsidian/
+
+# System-specific files (optional but good practice)
+*.DS_Store
+Thumbs.db
