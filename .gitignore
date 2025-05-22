@@ -4,3 +4,8 @@
 # System-specific files (optional but good practice)
 *.DS_Store
 Thumbs.db
+UNB-Notes/.obsidian/app.json
+UNB-Notes/.obsidian/appearance.json
+UNB-Notes/.obsidian/core-plugins.json
+UNB-Notes/.obsidian/graph.json
+UNB-Notes/.obsidian/workspace.json
